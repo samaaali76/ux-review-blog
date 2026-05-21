@@ -41,5 +41,3 @@ Semaa - Frontend Practice Project
 
 ---
 
-## 📌 Note
-This project is for educational purposes only.
